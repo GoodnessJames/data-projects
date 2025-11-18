@@ -30,7 +30,7 @@ Tools & techniques used:
 - **Excel/Sheets** for KPI calculations  
 - **Notion/Canva** for dashboards  
 
-Key SQL features demonstrated:  
+Key SQL skills demonstrated:  
 - GROUP BY, ORDER BY  
 - JOINS  
 - WINDOW functions  
@@ -140,6 +140,7 @@ business impact
 📬 Contact
 
 If you'd like to discuss this project or explore similar work, feel free to reach out to me via Email at goodnessakoma05@gmail.com or leave me a message on [LinkedIn](https://www.linkedin.com/in/goodness-akoma/). Looking forward to the start of our collaboration! 💛
+
 
 
 
