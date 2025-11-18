@@ -5,14 +5,14 @@ This case study focuses on identifying high-risk equipment, downtime drivers, an
 
 ---
 
-## 🔥 Why This Project Matters
+## Why This Project Matters
 Unplanned equipment downtime is one of the biggest cost, safety, and efficiency risks in offshore operations.  
 This project demonstrates how I think as an analyst — moving from **Problem → Method → Data → Insight → Business Impact** —  
 to help teams make smarter operational decisions.
 
 ---
 
-# 📘 Project Overview
+# Project Overview
 
 ### **Problem**
 Offshore assets like generators, pumps, compressors, cranes, and ROV systems experience downtime due to mechanical failures, weather,  
@@ -139,7 +139,8 @@ business impact
 
 📬 Contact
 
-If you'd like to discuss this project or explore similar work, feel free to reach out.
+If you'd like to discuss this project or explore similar work, feel free to reach out to me via Email at goodnessakoma05@gmail.com or leave me a message on [LinkedIn](https://www.linkedin.com/in/goodness-akoma/). Looking forward to the start of our collaboration! 💛
+
 
 
 
