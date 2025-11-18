@@ -78,17 +78,17 @@ If used in a real offshore operation, this analysis could:
 ---
 
 ## 📂 Project Structure
-/data
-├── equipment_master.csv
-├── equipment_logs.csv
+/data  
+├── equipment_master.csv  
+├── equipment_logs.csv  
 
-/sql
-├── schema.sql
+/sql  
+├── schema.sql  
 ├── downtime_analysis.sql
 
-/dashboard
-├── downtime_by_equipment.png
-├── cost_impact_trend.png
+/dashboard  
+├── downtime_by_equipment.png  
+├── cost_impact_trend.png  
 
 
 ---
@@ -143,6 +143,7 @@ If you'd like to discuss this project or explore similar work, reach me at goodn
 or send a message on [LinkedIn](https://www.linkedin.com/in/goodness-akoma/).
 
 Looking forward to the start of our collaboration! 💛
+
 
 
 
