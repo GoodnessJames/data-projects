@@ -12,7 +12,7 @@ to help teams make smarter operational decisions.
 
 ---
 
-# Project Overview
+## Project Overview
 
 ### **Problem**
 Offshore assets like generators, pumps, compressors, cranes, and ROV systems experience downtime due to mechanical failures, weather,  
@@ -137,9 +137,13 @@ business impact
 [Watch here](#) 👀
 
 
-📬 Contact
+## 📬 Contact
 
-If you'd like to discuss this project or explore similar work, feel free to reach out to me via Email at goodnessakoma05@gmail.com or leave me a message on [LinkedIn](https://www.linkedin.com/in/goodness-akoma/). Looking forward to the start of our collaboration! 💛
+If you'd like to discuss this project or explore similar work, reach me at goodnessakoma05@gmail.com  
+or send a message on [LinkedIn](https://www.linkedin.com/in/goodness-akoma/).
+
+Looking forward to the start of our collaboration! 💛
+
 
 
 
