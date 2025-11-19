@@ -1,0 +1,6 @@
+equipment_id,equipment_type,total_downtime_minutes,total_downtime_hours,total_cost_impact
+GEN-01,Generator,821,13.6833,15300.00
+CRN-02,Crane,285,4.7500,2900.00
+CMP-04,Compressor,270,4.5000,5200.00
+ROV-01,"ROV System",265,4.4167,4300.00
+GEN-02,Generator,190,3.1667,2000.00
