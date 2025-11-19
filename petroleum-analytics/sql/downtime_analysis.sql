@@ -50,6 +50,7 @@ FROM equipment_logs;
 -- Aggregates total downtime per month to identify seasonality or spikes
 SELECT DATE_FORMAT(start_time, '%Y-%m') AS month,
        SUM(downtime_minutes) AS monthly_downtime
+       SUM(downtime_minutes) / 60 AS downtime_hrs
 FROM equipment_logs
 GROUP BY month
 ORDER BY month;
