@@ -1,0 +1,8 @@
+equipment_id,equipment_type,location,install_date
+GEN-01,Generator,Offshore Rig A,2018-03-14
+GEN-02,Generator,Offshore Rig B,2019-06-22
+CMP-01,Compressor,Offshore Rig A,2017-11-05
+CMP-04,Compressor,Support Vessel 2,2020-01-19
+CRN-02,Crane,Support Vessel 3,2016-09-10
+PMP-03,Pump,Offshore Rig C,2018-07-28
+ROV-01,ROV System,Support Vessel 1,2021-02-11
