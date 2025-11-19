@@ -1,0 +1,11 @@
+log_id,equipment_id,equipment_type,start_time,end_time,downtime_minutes,cause,severity,cost_impact
+1,GEN-01,Generator,2024-01-04 08:14:00,2024-01-04 13:45:00,331,Mechanical Failure,High,6500
+2,GEN-01,Generator,2024-02-11 15:20:00,2024-02-11 17:50:00,150,Electrical Fault,Medium,1800
+3,CMP-04,Compressor,2024-03-02 09:00:00,2024-03-02 13:30:00,270,Mechanical Failure,High,5200
+4,CRN-02,Crane,2024-01-18 11:30:00,2024-01-18 13:00:00,90,Weather,Low,0
+5,PMP-03,Pump,2024-02-27 05:40:00,2024-02-27 07:20:00,100,Mechanical Failure,Medium,1200
+6,ROV-01,ROV System,2024-03-16 14:25:00,2024-03-16 18:50:00,265,Software Fault,High,4300
+7,GEN-02,Generator,2024-02-02 21:10:00,2024-02-03 00:20:00,190,Overheating,Medium,2000
+8,CMP-01,Compressor,2024-01-09 07:30:00,2024-01-09 10:00:00,150,Mechanical Failure,Medium,2100
+9,CRN-02,Crane,2024-03-05 16:00:00,2024-03-05 19:15:00,195,Hydraulic Leak,High,2900
+10,GEN-01,Generator,2024-03-20 10:05:00,2024-03-20 15:45:00,340,Mechanical Failure,High,7000
