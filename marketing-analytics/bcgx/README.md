@@ -87,10 +87,11 @@ NewCo recently ran a multi-channel marketing campaign with **two message styles*
 ## Visualizations
 
 **Bar Chart:** Revenue by Campaign + Channel
-<img width="1920" height="1080" alt="bcgx_bar_chart png" src="https://github.com/user-attachments/assets/90c6270a-1ab3-4b19-8c33-6ab23ad1419e" />
+<img width="562" height="320" alt="bar_chart png" src="https://github.com/user-attachments/assets/9f4373bc-829b-4d76-bd69-6d200647421f" />
 
 **Pie Chart:** New Customer Conversions by Campaign
 <img width="597" height="342" alt="pie_chart png" src="https://github.com/user-attachments/assets/4749b74a-bc05-4613-a470-3ce49deac20e" />
+
 
 ---
 
