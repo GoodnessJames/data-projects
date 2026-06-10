@@ -1,4 +1,4 @@
-# Business Intelligence & Recommendation Report (BCG X Simulation)
+# Data for Decision Makers: Business Intelligence & Recommendation Report (BCG X)
 
 ## Overview
 
