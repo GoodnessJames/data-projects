@@ -1,4 +1,4 @@
-# Data for Decision Makers – BCG X Virtual Job Simulation
+# Business Intelligence & Recommendation Report (BCG X Simulation)
 
 ## Overview
 
